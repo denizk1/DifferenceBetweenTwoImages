@@ -1,4 +1,5 @@
 # DifferenceBetweenTwoImages
+İki resim arasındaki farkları gösterme
 ## Algoritma Adımlar
   1. İki resim arasındaki piksel farklılıları bul(absdiff,subtract,compareSSIM)
   2. Fark resmini gri tonlamaya dönüştür
