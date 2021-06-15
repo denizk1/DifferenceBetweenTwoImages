@@ -6,3 +6,11 @@
   4. Farklılıkların kontür ile sınırını belirle
   5. Tespit ettiğimiz farklılıkarın etrafındaki sınırlarını dikdörtgen ile belirt
   6. Görüntüyü göster
+
+# Console üzerinde çalıştırma
+
+## 1.Adım
+Python dosyasının olduğu klasör dizinine gidin
+
+## 2.Adım
+Komut isteminde "python main.py" komut satırını çalıştırın
